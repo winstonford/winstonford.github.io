@@ -81,7 +81,7 @@ koji.toggles = {
 
 	toggle: function() {
 
-		$( '*[data-toggle-target]' ).live( 'click toggle', function( e ) {
+		$( '*[data-toggle-target]' ).on( 'click toggle', function( e ) {
 
 			var $toggle = $( this );
 
@@ -149,7 +149,7 @@ koji.toggles = {
 // ======================================================================= Search Modal
 koji.searchModal = {
 
-	init: function () {
+	init: function() {
 
 		if ( $( '.search-overlay' ).length ) {
 
@@ -168,7 +168,7 @@ koji.searchModal = {
 
 	conditionalScrollLockOnToggle: function() {
 
-		$( '.search-overlay' ).live( 'toggled', function() {
+		$( '.search-overlay' ).on( 'toggled', function() {
 
 			var winWidth = $( window ).width();
 
@@ -182,7 +182,7 @@ koji.searchModal = {
 
 	outsideUntoggle: function() {
 
-		$( document ).live( 'click', function( e ) {
+		$( document ).on( 'click', function( e ) {
 
 			var $target = $( e.target ),
 				modal = '.search-overlay',
@@ -334,7 +334,6 @@ koji.mobileMenu = {
 
 			// Unlock the scroll if we pass the breakpoint for hiding the mobile menu
 			if ( $( window ).width() >= 1000 && $( '.nav-toggle' ).hasClass( 'active' ) ) {
-				console.log( 'trigger resize' );
 				$( '.nav-toggle' ).trigger( 'click' );
 			}
 		} );
@@ -755,7 +754,12 @@ koji.loadMore = {
     updateHistory: function( paged ) {
 
 		var newUrl,
-			currentUrl = [ location.protocol, '//', location.host, location.pathname ].join( '' );
+			currentUrl = document.location.href;
+
+		// If currentUrl doesn't end with a slash, append one
+		if ( currentUrl.substr( currentUrl.length - 1 ) !== '/' ) {
+			currentUrl += '/';
+		}
 
 		var hasPaginationRegexp = new RegExp( '^(.*/page)/[0-9]*/(.*$)' );
 
