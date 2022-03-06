@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Winston Ford</title>
-	<atom:link href="http://10.0.0.82/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="http://10.0.0.73/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Sun, 06 Feb 2022 23:09:00 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9</generator>
+	<generator>https://wordpress.org/?v=5.9.1</generator>
 	<item>
 		<title>Democracy</title>
 		<link>/democracy/</link>
@@ -34,7 +34,7 @@
 
 
 
-<div class="wp-container-62105f93011b6 wp-block-buttons">
+<div class="wp-container-6223f9521f3c8 wp-block-buttons">
 <div class="wp-block-button"><a class="wp-block-button__link" href="https://planetaryvocabulary.com/2022/01/07/embera-congreso/" target="_blank" rel="noreferrer noopener">Read the story</a></div>
 </div>
 ]]></content:encoded>
@@ -74,7 +74,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Clean water for the Mayan kids of Chanchen Primero with Rodando con Causa" width="560" height="315" src="https://www.youtube.com/embed/M72Wx0T0bf8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Clean water for the Mayan kids of Chanchen Primero with Rodando con Causa" width="560" height="315" src="https://www.youtube.com/embed/M72Wx0T0bf8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 </div>
 </div>
@@ -110,7 +110,7 @@
 
 
 
-<div class="wp-container-62105f9305918 wp-block-buttons">
+<div class="wp-container-6223f95223834 wp-block-buttons">
 <div class="wp-block-button"><a class="wp-block-button__link" href="https://planetaryvocabulary.com/2020/09/03/dorian/" target="_blank" rel="noreferrer noopener">Read the story</a></div>
 </div>
 ]]></content:encoded>
@@ -133,7 +133,7 @@
 
 
 
-<div class="wp-container-62105f9307113 wp-block-buttons">
+<div class="wp-container-6223f95224ee7 wp-block-buttons">
 <div class="wp-block-button"><a class="wp-block-button__link" href="https://canopyrising.com/" target="_blank" rel="noreferrer noopener">Continue</a></div>
 </div>
 ]]></content:encoded>
@@ -160,7 +160,7 @@
 
 
 
-<div class="wp-container-62105f9308c68 wp-block-buttons">
+<div class="wp-container-6223f95226a1f wp-block-buttons">
 <div class="wp-block-button"><a class="wp-block-button__link">Continue</a></div>
 </div>
 ]]></content:encoded>
@@ -250,7 +250,7 @@
 
 
 
-<div class="wp-container-62105f930e0df wp-block-buttons">
+<div class="wp-container-6223f9522b487 wp-block-buttons">
 <div class="wp-block-button"><a class="wp-block-button__link" href="https://www.instagram.com/skyenewyork/">Continue</a></div>
 </div>
 ]]></content:encoded>
@@ -274,7 +274,7 @@
 
 
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Droplet: A mini ecosystem based on the planetary model" width="560" height="315" src="https://www.youtube.com/embed/GDNHRxJDZAY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Droplet: A mini ecosystem based on the planetary model" width="560" height="315" src="https://www.youtube.com/embed/GDNHRxJDZAY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 ]]></content:encoded>
 					
