@@ -12,13 +12,13 @@
 	<atom:link href="http://10.0.0.73/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Sun, 06 Feb 2022 23:09:00 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 25 Nov 2022 23:39:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>Democracy</title>
 		<link>/democracy/</link>
@@ -34,8 +34,8 @@
 
 
 
-<div class="wp-container-6223f9521f3c8 wp-block-buttons">
-<div class="wp-block-button"><a class="wp-block-button__link" href="https://planetaryvocabulary.com/2022/01/07/embera-congreso/" target="_blank" rel="noreferrer noopener">Read the story</a></div>
+<div class="is-layout-flex wp-block-buttons">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://winstonford.wordpress.com/2022/01/07/embera-congreso/" target="_blank" rel="noreferrer noopener">Read the story</a></div>
 </div>
 ]]></content:encoded>
 					
@@ -53,10 +53,10 @@
 
 					<description><![CDATA[En Español In English]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-columns">
-<div class="wp-block-column" style="flex-basis:100%">
-<div class="wp-block-columns">
-<div class="wp-block-column">
+<div class="is-layout-flex wp-container-7 wp-block-columns">
+<div class="is-layout-flow wp-block-column" style="flex-basis:100%">
+<div class="is-layout-flex wp-container-5 wp-block-columns">
+<div class="is-layout-flow wp-block-column">
 <p>En Español</p>
 
 
@@ -68,7 +68,7 @@
 
 
 
-<div class="wp-block-column">
+<div class="is-layout-flow wp-block-column">
 <p>In English</p>
 
 
@@ -83,8 +83,8 @@
 
 
 
-<div class="wp-block-columns">
-<div class="wp-block-column" style="flex-basis:100%"></div>
+<div class="is-layout-flex wp-container-9 wp-block-columns">
+<div class="is-layout-flow wp-block-column" style="flex-basis:100%"></div>
 </div>
 ]]></content:encoded>
 					
@@ -110,8 +110,8 @@
 
 
 
-<div class="wp-container-6223f95223834 wp-block-buttons">
-<div class="wp-block-button"><a class="wp-block-button__link" href="https://planetaryvocabulary.com/2020/09/03/dorian/" target="_blank" rel="noreferrer noopener">Read the story</a></div>
+<div class="is-layout-flex wp-block-buttons">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://winstonford.wordpress.com/2020/09/03/dorian/" target="_blank" rel="noreferrer noopener">Read the story</a></div>
 </div>
 ]]></content:encoded>
 					
@@ -133,7 +133,7 @@
 
 
 
-<div class="wp-container-6223f95224ee7 wp-block-buttons">
+<div class="is-layout-flex wp-block-buttons">
 <div class="wp-block-button"><a class="wp-block-button__link" href="https://canopyrising.com/" target="_blank" rel="noreferrer noopener">Continue</a></div>
 </div>
 ]]></content:encoded>
@@ -150,18 +150,18 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=79</guid>
 
-					<description><![CDATA[The key to climate change hides in a word that does not exist.]]></description>
+					<description><![CDATA[The key to climate change hides in a word&#160;that does not exist.]]></description>
 										<content:encoded><![CDATA[
-<hr class="wp-block-separator"/>
+<hr class="wp-block-separator has-css-opacity"/>
 
 
 
-<h2 id="the-key-to-climate-change-hides-in-a-word-that-does-not-exist">The key to climate change hides in a word <em>that does not exist</em>.</h2>
+<h2 id="the-key-to-climate-change-hides-in-a-word-that-does-not-exist">The key to climate change hides in a word&nbsp;<em>that does not exist</em>.</h2>
 
 
 
-<div class="wp-container-6223f95226a1f wp-block-buttons">
-<div class="wp-block-button"><a class="wp-block-button__link">Continue</a></div>
+<div class="is-layout-flex wp-block-buttons">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://winstonford.wordpress.com/2015/04/09/planetary-vocabulary/">Continue</a></div>
 </div>
 ]]></content:encoded>
 					
@@ -198,9 +198,9 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=73</guid>
 
-					<description><![CDATA[Urban Feed Co&#160;partners up with&#160;Pantrepant&#160;Farm to develop sustainable livestock feed using the black soldier fly. The farm is part of Island Outpost tropical resorts owned by music icon Chris Blackwell. Chris is the founder of Island Records. Ever heard of a band named U2 or an artist named Bob Marley? If it weren’t for Mr. [&#8230;]]]></description>
+					<description><![CDATA[Urban Feed Co partners up with Pantrepant Farm to develop sustainable livestock feed using the black soldier fly. The farm is part of Island Outpost tropical resorts owned by music icon Chris Blackwell. Chris is the founder of Island Records. Ever heard of a band named U2 or an artist named Bob Marley? If it weren’t for Mr. [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p><a rel="noreferrer noopener" href="https://web.archive.org/web/20180822032850/http://urbanfeedco.com/" target="_blank">Urban Feed Co</a>&nbsp;partners up with&nbsp;<a href="https://www.pantrepant.com/">Pantrepant</a>&nbsp;Farm to develop sustainable livestock feed using the black soldier fly. The farm is part of Island Outpost tropical resorts owned by music icon Chris Blackwell. Chris is the founder of Island Records. Ever heard of a band named U2 or an artist named Bob Marley? If it weren’t for Mr. Blackwell, you may not have. Read more at&nbsp;<a rel="noreferrer noopener" href="https://web.archive.org/web/20140301024451/http://www.islandoutpost.com:80/community/green-philosophy/" target="_blank">Island Outpost</a>&nbsp;or&nbsp;<a href="https://real-foodie.com/2013/09/10/pantrepant-farm-and-jamaicas-organic-movement/">here</a></p>
+<p><a rel="noreferrer noopener" href="https://web.archive.org/web/20180822032850/http://urbanfeedco.com/" target="_blank">Urban Feed Co</a> partners up with <a href="https://www.pantrepant.com/">Pantrepant</a> Farm to develop sustainable livestock feed using the black soldier fly. The farm is part of Island Outpost tropical resorts owned by music icon Chris Blackwell. Chris is the founder of Island Records. Ever heard of a band named U2 or an artist named Bob Marley? If it weren’t for Mr. Blackwell, you may not have. Read more at <a rel="noreferrer noopener" href="https://web.archive.org/web/20140301024451/http://www.islandoutpost.com:80/community/green-philosophy/" target="_blank">Island Outpost</a> or <a href="https://real-foodie.com/2013/09/10/pantrepant-farm-and-jamaicas-organic-movement/" target="_blank" rel="noreferrer noopener">here</a></p>
 ]]></content:encoded>
 					
 		
@@ -246,12 +246,12 @@
 
 					<description><![CDATA[Inspired by an Amazon woman who lived in a castle on the Isle of Skye, Skye New York is a line of vests I designed and made. Each vest is made to fit from two sheepskin pelts, cowhide, and toggles of wood or horn. Hand made using no machines. Above is Kaya Mckeithan, bass player [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p>Inspired by an Amazon woman who lived in a castle on the Isle of Skye, Skye New York is a line of vests I designed and made. Each vest is made to fit from two sheepskin pelts, cowhide, and toggles of wood or horn. Hand made using no machines. Above is Kaya Mckeithan, bass player for Brooklyn band <a href="https://youtu.be/J5z8fayk5Go">The Skins</a>, rockin a black Skye vest with cowhide and horn toggles. They had jus finished a set at Le Poisson Rouge in Manhattan.</p>
+<p>Inspired by an Amazon woman who lived in a castle on the Isle of Skye, Skye New York is a line of vests I designed and made. Each vest is made to fit from two sheepskin pelts, cowhide, and toggles of wood or horn. Hand made using no machines. Above is Kaya Mckeithan, bass player for Brooklyn band&nbsp;<a href="https://youtu.be/J5z8fayk5Go">The Skins</a>, rockin a black Skye vest with cowhide and horn toggles. They had jus finished a set at Le Poisson Rouge in Manhattan.</p>
 
 
 
-<div class="wp-container-6223f9522b487 wp-block-buttons">
-<div class="wp-block-button"><a class="wp-block-button__link" href="https://www.instagram.com/skyenewyork/">Continue</a></div>
+<div class="is-layout-flex wp-block-buttons">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://www.instagram.com/skyenewyork/" target="_blank" rel="noreferrer noopener">Continue</a></div>
 </div>
 ]]></content:encoded>
 					
