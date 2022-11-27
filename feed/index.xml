@@ -12,7 +12,7 @@
 	<atom:link href="http://10.0.0.73/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Fri, 25 Nov 2022 23:39:28 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 26 Nov 2022 00:59:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -74,7 +74,7 @@
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Clean water for the Mayan kids of Chanchen Primero with Rodando con Causa" width="560" height="315" src="https://www.youtube.com/embed/M72Wx0T0bf8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Clean water for the Mayan kids of Chanchen Primero with Rodando con Causa" width="560" height="315" src="https://www.youtube.com/embed/M72Wx0T0bf8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 </div>
 </div>
@@ -274,7 +274,7 @@
 
 
 <figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe title="Droplet: A mini ecosystem based on the planetary model" width="560" height="315" src="https://www.youtube.com/embed/GDNHRxJDZAY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe loading="lazy" title="Droplet: A mini ecosystem based on the planetary model" width="560" height="315" src="https://www.youtube.com/embed/GDNHRxJDZAY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
 ]]></content:encoded>
 					
